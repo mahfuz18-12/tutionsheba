@@ -1,0 +1,18 @@
+#homeBanner{
+    padding: 10%;
+    /* background-color: rgba(128, 128, 128, 0.5); */
+    text-align: left;
+}
+.btn-cyan{
+    background-color: cyan;
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    top: 0;
+    /* transition: all o.3s ease-in-out; */
+}
+.btn-cyan:hover{
+    background-color: darkcyan;
+    transition: all 0.3s ease-in-out;
+    /* top: -10px; */
+    color: white;
+}
